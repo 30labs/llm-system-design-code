@@ -4,6 +4,8 @@ The shared Python modules that the examples in *LLM System Design* (30labs) impo
 `handbook.py`, `gateway.py`, `reliability.py` and `agent.py` in its chapters; `sim.py`, the simulated
 provider chapter 3 describes, is only here.
 
+The code is released under the MIT License (see `LICENSE`).
+
 Put these files beside an example's code and run it with Python 3.12 or later. They use the
 standard library only.
 
